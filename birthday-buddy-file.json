@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "birthday-buddy-d9daa",
+  "private_key_id": "a87c919431297584a841d698d161acf02c302674",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDbqd97vaJW23r+\n6trnMgMVZSsIl1WJtl9PjEckLOwsLu3fpHZ/jCtByrEWkJxhC0Hdru4b4DVzCpHZ\nf++Kz3bj8ruBbd4CnbTD6HY9BCxQxWARdMkxD30M3N2vd2hWa37m6SGhKB8ZYkSK\nYmFxa4wjgnZ3qcqw+Kb6/kbEXhrP6U2e+PbrfaJGaElrspAucAzt+zUBV3LWdqn/\nV4KLyt56Srvqx7Mf6P0fJCErdVh+8adcz6E2UvMyH8lnkQ9QDjXZ2Nnr6VHVfYBZ\nUiqwwydDK/p0Ek7e7+z5w2qZq74UPwlZ8sQX4VSYyylziM7202iz2+mWYfvQK4QR\nOVJ+/57LAgMBAAECggEAOazbJHrQnpynKTqR+mU7wQjcqTdO+scbNGBBJ6Lx6dHy\nnCdrA6dSjkZBhAq5PJO/mgy9sS0H66pJTEHWq+w4K7bGe7/UrHwrA8tMDE5Fsnl4\ndWzkDJEkBNYTEOi5yQMVgVyR+2X08G3IUEtviV+zHnm5UEcRFLFc6ocMHrAUuyTq\nowjcOeAemT1ZOnx+3ChaeFYbLISKyUJmOKr37utG6FeDOye/z/a/B4inj2PJWZGb\nly9M2jA0UXBZYnwxlxt5A7brURIDWlQMbSxf3xDD6/kZ55dNXBLqlOaiGkkG2sBW\nK10cPsYGsAd5H5PG84DFT3lm0glGZOfOXsBi+B7NZQKBgQD2E3WcWnh2UC0GNDii\nfl6kVGLthWNSUnV9ch8DdHptjHQUf4ORBAzX0jL7ilODFf1/VgNQghqjVhV7OFkz\nf1VsRvTQrB+AZ8XD440osCQeXF9/UtUt9fZrJ+xbsTsFjmfWxF9Cua4EUqh9JcKQ\n6LdwmlaZM05/q/OKOKJ4bYDJxQKBgQDkhbnUkFDaQ/7ecNbtp94SovGtJ0MCT3SX\nhoA0BbBjEbOFMulWhKWZMo3xtvOwNivB9PoP69ZxJSybhM5GGAM5TI1cZAglu5gU\nwMxkycRPU6uFtGa7xN701LNj1+MxC+0guJ9vbYFM9Jz9zPBjoX6lKbQ7gBPuqerZ\nKO/4ejCfTwKBgQC+iCKwhXxwX3P9McIIT0CIjK5sqrNUsnQ2RX6t9io1WGMo2/LK\n/g/Tq/W9vkUbYpN9XOQEGjj171mCpwaqURWbWPWF/UAG9FK0ciSCNKBCwdNPipt1\nktTR83+XH4tLqg/Mww/fYlXTEw1SmUIlYYtnrJkQ1iEZydIwW9mw1Vi64QKBgD7K\n3/0gipbvCCFnMCetcL/+Nho2J5uC6a6ZLrEcvxL50jJPgv5bBIXL9mTsuJk6yVtK\nTUwCqbH9XPx+yY9JGdmsx0sT0YlMusU5FPC84ExL2V2r7G678eekaoaM08iuVkIf\neO/NTzIuJNU4cvVtcrc/dl7DGrcByZ5SOV41dRbRAoGAWu2LxS8Dz/5jc+bWhXlj\nWg5cDE2WyQTwVBqX5RQIADSIqK3um0uQB2uKGw+1X24L7+ZCJPncgMX5lgXHt3TF\n13FbGjdsCD2yAq5QHGpcub/JD6LO82A36J+ZxHXNuR4qMFzFQjzAKYTInmgyt9xa\no12OXKtQGBJpboRikBzctPM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ndsbj@birthday-buddy-d9daa.iam.gserviceaccount.com",
+  "client_id": "112846047591678522100",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ndsbj%40birthday-buddy-d9daa.iam.gserviceaccount.com"
+}

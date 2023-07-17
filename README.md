@@ -52,7 +52,7 @@ Whether you struggle to keep track of dates or find yourself scratching your hea
 <table>
 	<tr align="center">
 		<td>
-		Name 1
+		Syed Ikram Uddin
       <br>
       <br>
 		<p align="center">
@@ -62,7 +62,7 @@ Whether you struggle to keep track of dates or find yourself scratching your hea
 				<a href = "https://github.com/person1">
 					<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
 				</a>
-				<a href = "https://www.linkedin.com/in/person1">
+				<a href = "[https://www.linkedin.com/in/person1](https://www.linkedin.com/in/syed-ikram-uddin-b74916187/)">
 					<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
 				</a>
 			</p>
